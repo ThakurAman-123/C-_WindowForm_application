@@ -1,0 +1,16 @@
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\obj\Debug\net8.0-windows\LoginApp.LoginForm.resources
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\obj\Debug\net8.0-windows\LoginApp.csproj.GenerateResource.cache
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\obj\Debug\net8.0-windows\LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\obj\Debug\net8.0-windows\LoginApp.AssemblyInfoInputs.cache
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\obj\Debug\net8.0-windows\LoginApp.AssemblyInfo.cs
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\obj\Debug\net8.0-windows\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\bin\Debug\net8.0-windows\LoginApp.exe
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\bin\Debug\net8.0-windows\LoginApp.deps.json
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\bin\Debug\net8.0-windows\LoginApp.runtimeconfig.json
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\bin\Debug\net8.0-windows\LoginApp.dll
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\bin\Debug\net8.0-windows\LoginApp.pdb
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\obj\Debug\net8.0-windows\LoginApp.dll
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\obj\Debug\net8.0-windows\refint\LoginApp.dll
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\obj\Debug\net8.0-windows\LoginApp.pdb
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\obj\Debug\net8.0-windows\LoginApp.genruntimeconfig.cache
+C:\Users\z004twvb\source\repos\ConsoleApp4\LoginApp\obj\Debug\net8.0-windows\ref\LoginApp.dll
